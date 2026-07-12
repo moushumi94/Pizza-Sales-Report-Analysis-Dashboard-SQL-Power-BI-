@@ -8,16 +8,14 @@ Developed an interactive **Pizza Sales Dashboard** using **SQL** and **Power BI*
 
 ### Home Dashboard
 
-![Home Dashboard](Dashboard%20Screenshots/Home.png)
 <p align="center">
-  <img src="https://github.com/moushumi94/Madhav-Ecommerce-Sales-Dashboard-Power-BI-/blob/main/Screenshot%202026-05-14%20084007.png" width="100%">
+  <img src="https://github.com/moushumi94/Pizza-Sales-Report-Analysis-Dashboard-SQL-Power-BI-/blob/main/Screenshot%202026-07-12%20205822.png" width="100%">
 </p>
 
 ### Best & Worst Sellers Dashboard
 
-![Best & Worst Sellers](Dashboard%20Screenshots/Best_Worst_Sellers.png)
 <p align="center">
-  <img src="https://github.com/moushumi94/Madhav-Ecommerce-Sales-Dashboard-Power-BI-/blob/main/Screenshot%202026-05-14%20084007.png" width="100%">
+  <img src="https://github.com/moushumi94/Pizza-Sales-Report-Analysis-Dashboard-SQL-Power-BI-/blob/main/Screenshot%202026-07-12%20205851.png" width="100%">
 </p>
 
 ## 🚀 Key Features
